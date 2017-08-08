@@ -20,5 +20,8 @@
   },
   "engines": {
     "node": ">=4.3"
+  },
+   "scripts": {
+    "start": "node ./index.js --config ./parse-dashboard-config.json --allowInsecureHTTP=1"
   }
 }
