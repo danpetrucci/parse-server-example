@@ -6,7 +6,7 @@
       "javascriptKey": "Theforce17",
       "restKey": "Theforce17",
       "appName": "Quitary",
-      "production": false
+      "production": true
     },
     {
       "serverURL": "https://quitary-api-dev.herokuapp.com/parse",
