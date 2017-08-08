@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+      "serverURL": "https://quitary-api-dev.herokuapp.com/parse", // For an app still hosted on Parse.com
+      "appId": "quitary",
+      "javascriptKey": "Theforce17",
+      "restKey": "Theforce17",
+      "appName": "Quitary",
+      "production": false
+    },
+    {
+      "serverURL": "https://quitary-api-dev.herokuapp.com/parse",
+      "appId": "quitary",
+      "masterKey": "Theforce17",
+      "appName": "Quitary"
+    }
+  ],
+  "users": [
+    {
+      "user":"Quitary",
+      "pass":"Theforce17" // change this to something secure
+    }
+  ]
+}
