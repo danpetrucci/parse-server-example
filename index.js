@@ -27,8 +27,6 @@ var api = new ParseServer({
 
 var app = express();
 
-require('parse-dashboard/Parse-Dashboard/index.js');
-
 // Serve static assets from the /public folder
 app.use('/public', express.static(path.join(__dirname, '/public')));
 
